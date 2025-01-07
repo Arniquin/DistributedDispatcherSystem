@@ -14,7 +14,7 @@ This project simulates a distributed system where processes are dispatched betwe
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/dispatcher-node.git
+    git clone https://github.com/Arniquin/DistributedDispatcherSystem.git
     ```
 
 2. Compile the Java files:
